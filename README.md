@@ -22,6 +22,7 @@ Hello AI Platform (Unified)
   Use an image dataset to train an AutoML model.
   
   Result: 
+  
   -Successfully Trained the AutoML Image Classification Model using different dataset (smaller dataset - Citrus Plants)
   -The dataset was created using import image and same as the labeling of images.
   -The training took only 27mins and have low accuracy of Black Spot labeled data based on the Confusion Matrix.
@@ -33,6 +34,7 @@ Hello AI Platform (Unified)
   Use a text dataset to train an AutoML model.
   
   Result: 
+  
   -Successfully trained the AutoML Text Classification model using smaller dataset from the sample data happiness.csv.
   -Copy the sample dataset happiness.csv to storage bucket for training sample but it took too long to train the sample.
   -Cancelled the training set instead use smaller dataset from the happiness.csv with 91samples only.
@@ -46,6 +48,7 @@ Hello AI Platform (Unified)
   Use a video dataset to train an AutoML model.
   
   Result:
+  
   -Successfully trained the AutoML Video Classification model using sample video.
   -Created the sample dataset from AutoML and import the sample video data from Cloud Storage gs://automl-video-demo-data/hmdb_split1_5classes_all.csv
   -Trained the sample for 2Hrs and 4mins. Predicted correctly all the true video label 100% ( pullup, kickball, cartwheel, ride_horse, golf) based on
@@ -64,6 +67,7 @@ Hello AI Platform (Unified)
   Learn how to bring your own code to AI Platform, by using a sample app to train an image recognition model.
   
   Result:
+  
   -Successfully trained the AutoML Custom Image Classificaion model.
   -Trained the sample for 14mins and 36secs using the custom training pipeline and pre-built container.
   -Deployment to Endpoint failed because the GPU accelerators are not supported in the container image.
@@ -79,6 +83,7 @@ Hello AI Platform (Unified)
   Use a structured dataset to train an AutoML model.
   
   Result:
+  
   -Successfully trained the AutoML Tabular model.
   -Created the sample dataset from AutoML Cloud Storage gs://cloud-ml-tables-data/bank-marketing.csv.
   -Trained the sample for an hour using the target column Deposit.
