@@ -20,11 +20,12 @@ Hello AI Platform (Unified)
 •	Hello image data
   Use an image dataset to train an AutoML model.
   
-  Result: Successfully Trained an AutoML Image Classification Model using different dataset (smaller dataset - Citrus Plants)
-          The dataset was created using import image and same as the labeling of images.
-          The training took only 27mins and have low accuracy on Black Spot based on Confusion Matrix.
-          The main issue is the deployment of a model to send a prediction failed to create in endpont creation process.
-          (Refer page 9~16 for the detailed demo screenshot of this report)
+  Result: 
+  Successfully Trained an AutoML Image Classification Model using different dataset (smaller dataset - Citrus Plants)
+  The dataset was created using import image and same as the labeling of images.
+  The training took only 27mins and have low accuracy on Black Spot based on Confusion Matrix.
+  The main issue is the deployment of a model to send a prediction failed to create in endpont creation process.
+  (Refer page 9~16 for the detailed demo screenshot of this report)
  
 •	Hello text data
   Use a text dataset to train an AutoML model.
