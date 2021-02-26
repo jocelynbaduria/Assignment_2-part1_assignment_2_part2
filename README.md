@@ -66,10 +66,15 @@ Hello AI Platform (Unified)
   -Successfully created a batch prediction of video model.
   
   -AI provides three types of information for labels
+  
     Labels for the video - Segment tab below the video on the results page.
+    
     Labels for shots within the video - Shot tab below the video on the results page.
+    
     Labels for each 1-second interval within the video - 1 Second Interval tab below the video on the results page.
+   
     If you want to see more labels, you can change the threshold score when you request a prediction. 
+    
     AutoML video only displays the labels that are above the specified threshold.
     
    (Refer page 33~45 for the detailed demo screenshot of this report)
