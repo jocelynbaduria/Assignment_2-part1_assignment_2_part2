@@ -16,12 +16,12 @@ I challenge the students to take on interesting twists to these hello world exam
 
 Five examples - one in each of below categories. 
 
-Hello AI Platform (Unified) 
+Hello AI Platform (Unified)
+
 •	Hello image data
   Use an image dataset to train an AutoML model.
   
   Result: 
-  
   Successfully Trained an AutoML Image Classification Model using different dataset (smaller dataset - Citrus Plants)
   The dataset was created using import image and same as the labeling of images.
   The training took only 27mins and have low accuracy of Black Spot labeled data based on the Confusion Matrix.
@@ -31,11 +31,25 @@ Hello AI Platform (Unified)
 •	Hello text data
   Use a text dataset to train an AutoML model.
   
+  Result: 
+  Copy the sample dataset happiness.csv to storage bucket for training sample but it took too long to train the sample.
+  Cancelled the training set instead use smaller dataset from the happiness.csv with 91samples only.
+  
+  
+  
 •	Hello video data
   Use a video dataset to train an AutoML model.
   
+  Result:
+  Create sample dataset from AutoML and import the sample video data from Cloud Storage gs://automl-video-demo-data/hmdb_split1_5classes_all.csv
+  Trained the sample 
+  
+  
 •	Hello custom training
   Learn how to bring your own code to AI Platform, by using a sample app to train an image recognition model.
+  
+  Result:
+  
   
 •	Hello structured data
   Use a structured dataset to train an AutoML model.
