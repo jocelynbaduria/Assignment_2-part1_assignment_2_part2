@@ -24,7 +24,7 @@ Hello AI Platform (Unified)
   
   Successfully Trained an AutoML Image Classification Model using different dataset (smaller dataset - Citrus Plants)
   The dataset was created using import image and same as the labeling of images.
-  The training took only 27mins and have low accuracy on Black Spot based on Confusion Matrix.
+  The training took only 27mins and have low accuracy of Black Spot labeled data based on the Confusion Matrix.
   The main issue is the deployment of a model to send a prediction failed to create in endpont creation process.
   (Refer page 9~16 for the detailed demo screenshot of this report)
  
