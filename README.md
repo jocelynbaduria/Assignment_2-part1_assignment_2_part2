@@ -18,8 +18,7 @@ Five examples - one in each of below categories.
 
 Hello AI Platform (Unified)
 
-•	Hello image data
-  Use an image dataset to train an AutoML model.
+1•	Hello image data - Use an image dataset to train an AutoML model.
   
   Result: 
   
@@ -33,8 +32,7 @@ Hello AI Platform (Unified)
   
   (Refer page 9~16 for the detailed demo screenshot of this report)
  
-•	Hello text data
-  Use a text dataset to train an AutoML model.
+2•	Hello text data - Use a text dataset to train an AutoML model.
   
   Result: 
   
@@ -51,8 +49,7 @@ Hello AI Platform (Unified)
   
   (Refer page 17~32 for the detailed demo screenshot of this report)
   
-•	Hello video data
-  Use a video dataset to train an AutoML model.
+3•	Hello video data - Use a video dataset to train an AutoML model.
   
   Result:
   
@@ -79,8 +76,7 @@ Hello AI Platform (Unified)
     
    (Refer page 33~45 for the detailed demo screenshot of this report)
   
-•	Hello custom training
-  Learn how to bring your own code to AI Platform, by using a sample app to train an image recognition model.
+4•	Hello custom training - Learn how to bring your own code to AI Platform, by using a sample app to train an image recognition model.
   
   Result:
   
@@ -100,8 +96,7 @@ Hello AI Platform (Unified)
    
    (Refer page 46~71 for the detailed demo screenshot of this report)
   
-•	Hello structured data
-  Use a structured dataset to train an AutoML model.
+6•	Hello structured data - Use a structured dataset to train an AutoML model.
   
   Result:
   
