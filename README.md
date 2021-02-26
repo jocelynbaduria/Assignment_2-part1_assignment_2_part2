@@ -93,11 +93,13 @@ Hello AI Platform (Unified)
   Summary:
   
   1.Only Structured data was successful in deployment to endpoint for prediction. The rest have some issues.
+  
   2.Video data was successful for batch prediction of video model.
+  
   3.Custom Training successfully deploy a web app to send prediction requests but the predictions request predictions were mostly "error getting prediction".
+  
   4.Text data use small dataset from 11K samples to 91samples still the training took almost 5HRs.
   
-  
-
-
+  Attached Report: Jocelyn_Baduria_Assignment2_Part1_Demo.pptx
+  [Jocelyn_Baduria_Assignment2_Part1_Demo.pptx](https://github.com/jocelynbaduria/Assignment_2-part1_assignment_2_part2/files/6052219/Jocelyn_Baduria_Assignment2_Part1_Demo.pptx)
 
