@@ -91,6 +91,7 @@ Hello AI Platform (Unified)
    (Refer page 72~89 for the detailed demo screenshot of this report)
   
   Summary:
+  
   1.Only Structured data was successful in deployment to endpoint for prediction. The rest have some issues.
   2.Video data was successful for batch prediction of video model.
   3.Custom Training successfully deploy a web app to send prediction requests but the predictions request predictions were mostly "error getting prediction".
