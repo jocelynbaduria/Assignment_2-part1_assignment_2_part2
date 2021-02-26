@@ -21,6 +21,7 @@ Hello AI Platform (Unified)
   Use an image dataset to train an AutoML model.
   
   Result: 
+  
   Successfully Trained an AutoML Image Classification Model using different dataset (smaller dataset - Citrus Plants)
   The dataset was created using import image and same as the labeling of images.
   The training took only 27mins and have low accuracy on Black Spot based on Confusion Matrix.
