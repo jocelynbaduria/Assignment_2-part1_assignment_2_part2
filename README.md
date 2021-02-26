@@ -100,6 +100,6 @@ Hello AI Platform (Unified)
   
   4.Text data use small dataset from 11K samples to 91samples still the training took almost 5HRs.
   
-  Attached Report: Jocelyn_Baduria_Assignment2_Part1_Demo.pptx
+  Attached Report:
   [Jocelyn_Baduria_Assignment2_Part1_Demo.pptx](https://github.com/jocelynbaduria/Assignment_2-part1_assignment_2_part2/files/6052219/Jocelyn_Baduria_Assignment2_Part1_Demo.pptx)
 
