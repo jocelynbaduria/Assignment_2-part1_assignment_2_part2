@@ -132,7 +132,7 @@ Hello AI Platform (Unified)
   
   Part2
   
-  End2end Deployment of a Vision Model Using Automl-kit to IOS Mobile device![image](https://user-images.githubusercontent.com/62075076/109430165-c28c9780-79b4-11eb-8d66-ed7c57552cf1.png)
+  End-2-end Deployment of a Vision Model Using Automl-kit to IOS Mobile device
   
   Requirement: Install xcode and cocoapods if you dont have one. You may need 30GB min storage memory to install the xcode in your Mac.
   
