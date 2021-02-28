@@ -139,21 +139,34 @@ Hello AI Platform (Unified)
   Installation may takes longer if you dont have enough memory. In my case I installed it for almost 2days including cleaning my files to free storage memory space.
   
   1• GCP Setup Firebase 
+  
      - Create Firebase console Project and choose Blaze plan as you go for Billing.
+     
      - Add and configure Google Analytics. 
+     
      - Add Firebase to your IOS app.
+
      - Download GoogleService-Info-plist and save it to your sample app MLkit - MLVisionExample file in Xcode.
+     
      - Add Firebase SDK by adding 'Firebase/Analytics' in PodFile.
+     
      - Install cocoapods, then install the PodFile by running command "pod install" in terminal.
+
      - Open the terminal and run a command "open MLVisionExample.xcworkspace" and Add initialization code, in this tutorial the code was updated in 
        AppDelegate.swift file.
+       
      - Continue to Firebase Console and select the MLKit in Build Drop-down menu. 
      
    2• Train your Model 
+   
      - Enable the AutoML Vision and prepare the training dataset flowers_photos.zip.
-     - Add Flower Dataset by uploading it to AutoML Vision
+     
+     - Add Flower Dataset by uploading it to AutoML Vision.
+     
      - Train the Model Using AutoML Vision after importing the dataset.
+     
      - Define your model for mobile use and choose the faster prediction but low accuracy to prevent from overcharges.
+     
      - Set a budget 1 node hour training.
     
     
