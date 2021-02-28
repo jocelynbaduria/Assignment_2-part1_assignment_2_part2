@@ -129,3 +129,18 @@ Hello AI Platform (Unified)
   
   Attached Report:
   [Jocelyn_Baduria_Assignment2_Part1_Demo.pptx](https://github.com/jocelynbaduria/Assignment_2-part1_assignment_2_part2/files/6052219/Jocelyn_Baduria_Assignment2_Part1_Demo.pptx)
+  
+  Part2
+  
+  End2end Deployment of a Vision Model Using Automl-kit to IOS Mobile device![image](https://user-images.githubusercontent.com/62075076/109430165-c28c9780-79b4-11eb-8d66-ed7c57552cf1.png)
+  
+  Requirement: Install xcode and cocoapods if you dont have one. You may need 30GB min storage memory to install the xcode in your Mac.
+  
+  Installation may takes longer if you dont have enough memory. In my case I installed it for almost 2days including cleaning my files to free storage memory space.
+  
+  1• GCP Setup Firebase 
+     Create Firebase console Project![image](https://user-images.githubusercontent.com/62075076/109432762-a2afa080-79c1-11eb-8b1d-e86ed55f0fcd.png)
+
+  
+  
+
