@@ -184,7 +184,8 @@ Hello AI Platform (Unified)
       ![image](https://user-images.githubusercontent.com/62075076/109439116-e9ad8e00-79e1-11eb-94c0-f889f0c55dfe.png)
  
       
-       Attached Report For Part2:[Jocelyn_Baduria_Assignment2_Part2_Demo.pptx](https://github.com/jocelynbaduria/Assignment_2-part1_assignment_2_part2/files/6058489/Jocelyn_Baduria_Assignment2_Part2_Demo.pptx)
+       Attached Report For Part2:
+       [Jocelyn_Baduria_Assignment2_Part2_Demo.pptx](https://github.com/jocelynbaduria/Assignment_2-part1_assignment_2_part2/files/6058489/Jocelyn_Baduria_Assignment2_Part2_Demo.pptx)
 
        
        
