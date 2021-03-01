@@ -175,17 +175,17 @@ Hello AI Platform (Unified)
     
        -Run the MLVisionExample.app in XCode using IOS App Simulator.
 
-      ![image](https://user-images.githubusercontent.com/62075076/109439092-cd115600-79e1-11eb-9cb7-5caa979d8765.png)
+   ![image](https://user-images.githubusercontent.com/62075076/109439092-cd115600-79e1-11eb-9cb7-5caa979d8765.png)
       
-      ![image](https://user-images.githubusercontent.com/62075076/109439101-d8648180-79e1-11eb-9c97-95a287014b6a.png)
+   ![image](https://user-images.githubusercontent.com/62075076/109439101-d8648180-79e1-11eb-9c97-95a287014b6a.png)
       
-      ![image](https://user-images.githubusercontent.com/62075076/109439109-e1555300-79e1-11eb-981a-f97466e96f07.png)
+   ![image](https://user-images.githubusercontent.com/62075076/109439109-e1555300-79e1-11eb-981a-f97466e96f07.png)
 
-      ![image](https://user-images.githubusercontent.com/62075076/109439116-e9ad8e00-79e1-11eb-94c0-f889f0c55dfe.png)
+   ![image](https://user-images.githubusercontent.com/62075076/109439116-e9ad8e00-79e1-11eb-94c0-f889f0c55dfe.png)
  
       
-       Attached Report For Part2:
-       [Jocelyn_Baduria_Assignment2_Part2_Demo.pptx](https://github.com/jocelynbaduria/Assignment_2-part1_assignment_2_part2/files/6058489/Jocelyn_Baduria_Assignment2_Part2_Demo.pptx)
+   Attached Report For Part2:
+   [Jocelyn_Baduria_Assignment2_Part2_Demo.pptx](https://github.com/jocelynbaduria/Assignment_2-part1_assignment_2_part2/files/6058489/Jocelyn_Baduria_Assignment2_Part2_Demo.pptx)
 
        
        
